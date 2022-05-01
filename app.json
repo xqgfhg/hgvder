@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/xqgfhg/hgvder",
+  "repository": "https://github.com/xqgfhg/hgvder",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
